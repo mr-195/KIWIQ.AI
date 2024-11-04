@@ -1,5 +1,3 @@
-dcn
-
 # KiwiQ AI
 
 A Django-based web application with REST API support.
@@ -26,8 +24,8 @@ A Django-based web application with REST API support.
 
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone [<repository-url>](https://github.com/mr-195/KIWIQ.AI_Assignment.git)
+cd KIWIQ.AI_Assignment 
 ```
 
 ## 2. Create and activate a virtual environment:
@@ -156,12 +154,3 @@ Examples:
     curl -X GET http://localhost:8000/api/nodes/2/
     curl -X GET http://localhost:8000/api/nodes/3/
 ```
-
-
-
-## License
-
-[MIT License](LICENSE)
-```
-
-
